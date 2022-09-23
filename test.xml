@@ -1,0 +1,6 @@
+
+<classes>
+    <class name="HomeTests"/>
+    <class name="ProductTests"/>
+    <class name="AddToCartTests"/>
+</classes>
